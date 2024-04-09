@@ -51,7 +51,7 @@
 
 
 ## Output:
-![EMPD EX-01](https://github.com/Jegatheeswarir/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144871077/957b098e-2dc5-439f-9c5f-85173640b787)
+![1](https://github.com/Jegatheeswarir/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144871077/d94a40b2-51a7-42b7-86a3-f20470a99f5b)
 
 
 
