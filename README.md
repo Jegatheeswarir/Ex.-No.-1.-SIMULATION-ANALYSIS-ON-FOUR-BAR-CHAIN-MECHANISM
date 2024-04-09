@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 90/04/2024
 
 ## AIM:
 
@@ -53,10 +53,16 @@
 
 
 ## Output:
+![EX 1 ONE](https://github.com/Jegatheeswarir/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144871077/a84b4731-a26b-4ebd-85d0-ac3350f25e32)
+
+![TWO](https://github.com/Jegatheeswarir/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144871077/b44f55fe-617b-40dd-bc43-861e7c290390)
+
+![THREE](https://github.com/Jegatheeswarir/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144871077/e5dfecc5-c343-4f88-a7fd-305ecd89399a)
 
 
 
 ### Name:JEGATHEESWARI R
+
 ### Register Number: 212223230092
 
 ## RESULT:
